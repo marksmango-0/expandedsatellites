@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/wares">
+	<ware id="satellite_mk3" name="Expanded Satellite" description="A powerful deployable satellite with exceptional range" transport="equipment" volume="1" tags="equipment satellite">
+    <price min="250000" average="312000" max="450000" />
+    <production time="120" amount="1" method="default" name="{20206,101}">
+      <primary>
+        <ware ware="advancedelectronics" amount="25" />
+        <ware ware="energycells" amount="30" />
+        <ware ware="scanningarrays" amount="20" />
+      </primary>
+    </production>
+    <component ref="eq_arg_satellite_03_macro" amount="1" />
+    <use threshold="0" />
+  </ware>
+  </add>
+</diff>

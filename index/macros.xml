@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/index">
+	<entry name="eq_arg_satellite_03_macro" value="extensions\expandedsatellites\assets\props\Equipment\Satelite\macros\eq_arg_satellite_03_macro"/>
+  </add>
+</diff>

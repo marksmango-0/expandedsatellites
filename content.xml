@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="expandedsatellites" name="ExpandedSatellites" description="Adds a third tier of satellites."  author="marksmango" version="100" date="2018-12-12" save="0">
+  <text language="7" name="ExpandedSatellites" description="ExpandedSatellites" author="marksmango" />
+  <text language="33" name="ExpandedSatellites" description="ExpandedSatellites" author="marksmango" />
+  <text language="34" name="ExpandedSatellites" description="ExpandedSatellites" author="marksmango" />
+  <text language="39" name="ExpandedSatellites" description="ExpandedSatellites" author="marksmango" />
+  <text language="44" name="ExpandedSatellites" description="ExpandedSatellites" author="marksmango" />
+  <text language="49" name="ExpandedSatellites" description="ExpandedSatellites" author="marksmango" />
+  <text language="86" name="ExpandedSatellites" description="ExpandedSatellites" author="marksmango" />
+  <text language="88" name="ExpandedSatellites" description="ExpandedSatellites" author="marksmango" />
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<diff>
+  <add sel="/rules/deployable/macros">
+      <macro category="satellite" mk="3" macro="eq_arg_satellite_03_macro" />
+  </add>
+  <add sel="/rules/deployable/rules">
+	  <ruleset type="default">
+			<rule category="satellite"      mk="3"  weight="3"  purposes="fight"  classes="ship_s"/>
+			<rule category="satellite"      mk="3"  weight="3"  purposes="build"/>
+	  </ruleset>
+  </add>
+</diff>
